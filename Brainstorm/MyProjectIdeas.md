@@ -1,4 +1,5 @@
 # My Project List
+
 A list of project ideas for myself.
 
 ## Table of Contents
@@ -14,20 +15,16 @@ A list of project ideas for myself.
 4. [Robotics (ROS)](#robotics)
 5. [AI/Machine Learning](#aimachine-learning)
 6. [Other Fun Projects](#other-fun-projects)
-    1. [Game Dev](#)
-    2. [Arts]()
-    3. [Photo and Video Creation/Editing]()
-7. [Help Open Source]() 
+    1. [Game Dev](#game-dev)
+    2. [Arts](#arts)
+    3. [Photo and Video Creation/Editing](#photovideo-creation-and-editing)
+7. [Help Open Source](#open-source-contribution) 
 
 ## Web/Application Development
 
 ### Web Development
 
-#### 1. Portfolio Website (Front-End Only)
-
-##### Level/Complexity
-
-Beginner
+#### Portfolio Website (Front-End Only)
 
 ##### Description
 
@@ -40,6 +37,8 @@ A basic portfolio website to practice basic front-end. I am thinking of making a
 
 ###### My Notes
 
+Level/Complexity: Beginner
+
 Showcase: [https://portfolio.jyylab.com/](https://portfolio.jyylab.com/).
 
 Basic portfolio website completed, but would like to add a little 3D robot as greeting.
@@ -48,11 +47,7 @@ Basic portfolio website completed, but would like to add a little 3D robot as gr
 
 Todo
 
-#### 2. IoT Sensor Dashboard (Full-Stack)
-
-##### Level/Complexity
-
-Easy
+#### IoT Sensor Dashboard (Full-Stack)
 
 ##### Description
 
@@ -71,13 +66,9 @@ A sensor dashboard that shows my home sensors.
 
 Showcase: Demo [here](https://airqualitydashboard.jyylab.com) and repo [here](https://github.com/jamesyoung-15/IoT-Home-Sensor-Dashboard).
 
-
+Level/Complexity: Easy
 
 ###### 3. Inventory Management
-
-##### Level/Complexity
-
-Easy/Medium
 
 ##### Description
 
@@ -91,13 +82,11 @@ An inventory management system that keeps track of my stuff at home. Will try to
 
 ##### My Notes
 
+Level/Complexity: Easy/Medium
+
 Not really that interested in implementing this project, backburner.
 
 ###### 4. Ultimate Tic-Tac-Toe and Connect-Four (Bot and Multiplayer)
-
-##### Level/Complexity
-
-Medium/High
 
 ##### Description
 
@@ -111,13 +100,11 @@ Idea is to create a website that allows users to play ultimate tic tac toe or co
 
 ##### My Notes
 
+Level/Complexity: Medium/High
+
 Can be useful for practicing some algorithm implementation, but another project not that interested in doing.
 
 ###### 5. Blog Site
-
-##### Level/Complexity
-
-Easy
 
 ##### Description
 
